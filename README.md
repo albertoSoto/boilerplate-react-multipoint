@@ -16,3 +16,4 @@ Just ive it a go with:
 ## Ref Sources
 - https://webpack.js.org/concepts/entry-points/
 - https://www.valentinog.com/blog/babel/
+- https://stackoverflow.com/questions/37671342/how-to-load-image-files-with-webpack-file-loader
